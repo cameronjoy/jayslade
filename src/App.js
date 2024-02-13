@@ -5,6 +5,7 @@ import LoveLetter from './components/LoveLetter'
 function App() {
   return (
     <div className="App">
+      <p class='tap'>tap me :)</p>
       <LoveLetter/>
       <Counter/>
       

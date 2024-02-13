@@ -25,8 +25,9 @@ function Counter() {
     return (
       <div className="App">
           <h1>I've loved you for</h1>
-        <h1>{Difference_In_Days}</h1>
-        <h1>days</h1>
+        <h1>{Difference_In_Days} days!</h1>
+        <h1>And I love you more</h1>
+        <h1>everyday!!</h1>
       </div>
     );
     

@@ -10,6 +10,7 @@ function LoveLetter() {
     return(
         
         <div class="wrapper">
+            
             <div class='lid one'></div>
             <div class="lid two"></div>
             <div class="envelope"></div>
