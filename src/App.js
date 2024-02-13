@@ -1,10 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import Counter from './components/Counter'
+import LoveLetter from './components/LoveLetter'
 
 function App() {
   return (
     <div className="App">
-      <h1>hi boyfriend</h1>
+      <LoveLetter/>
+      <Counter/>
+      
     </div>
   );
 }
