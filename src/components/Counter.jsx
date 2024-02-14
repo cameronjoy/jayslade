@@ -1,7 +1,7 @@
 import React from "react";
 
 let date1 = new Date("08/12/2020");
-let date2 = new Date;
+let date2 = new Date();
  
 // Calculating the time difference
 // of two dates
